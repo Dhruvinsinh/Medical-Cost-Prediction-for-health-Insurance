@@ -27,4 +27,4 @@ Where We have age,sex,bmi,children,smoker,region as Input feature for Our neural
 For this project I have attach all implementation on i python file which contains results as well.
 
 # Conclusion
-The best model is xgboost on propressing data which is able to provide 86% of r2 score for testing dataset.
+The best model is xgboost on prepressing data which is able to provide 86% of r2 score for testing dataset.
