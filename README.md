@@ -19,3 +19,12 @@ region: the beneficiary's residential area in the US, northeast, southeast, sout
 charges: Individual medical costs billed by health insurance
 
 Where We have age,sex,bmi,children,smoker,region as Input feature for Our neural network algorithm and charges for target or prediction column for the neural network.
+
+
+
+
+
+For this project I have attach all implementation on i python file which contains results as well.
+
+# Conclusion
+The best model is xgboost on propressing data which is able to provide 86% of r2 score for testing dataset.
